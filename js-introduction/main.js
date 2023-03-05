@@ -1,0 +1,17 @@
+import "./task-1.js";
+import "./task-2.js";
+import "./task-3.js";
+import "./task-4.js";
+import "./task-5.js";
+import "./task-6.js";
+import "./task-7.js";
+import "./task-8.js";
+import "./task-9.js";
+import "./task-10.js";
+import "./task-11.js";
+import "./task-12.js";
+import "./task-13.js";
+import "./task-14.js";
+import "./task-15.js";
+import "./task-16.js";
+import "./task-17.js";
